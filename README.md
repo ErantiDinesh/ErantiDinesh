@@ -35,10 +35,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
+    <img src="https://urbantution.com/content_image/blog/7a727005-e70f-4ab3-b4fa-c76c5bde0213.jpg" alt="mysql" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
+    <img src="https://banner2.cleanpng.com/20180425/vre/kisspng-node-js-javascript-npm-computer-icons-web-applicat-5ae0f85a094d64.3643429315246930820381.jpg" alt="nodejs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
